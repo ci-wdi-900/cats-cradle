@@ -9,7 +9,7 @@ Let's do some really advanced looping, using string indices. Hopefully you won't
 
 ### Setup
 
-For this exercise, we don't need to run tests. But we **DO** need to create our JavaScript file, and then we'll use our `node` command in our terminal to run it and see what gets printed out to said terminal.
+For this exercise, we don't need to run tests. But we **DO** need to create our JavaScript file, and then we'll use our `node` command to run it and see what gets printed out to our terminal.
 
 
 ### Tools You Could Think About Using
