@@ -2,14 +2,14 @@
 
 ### Introduction
 
-Let's do some really advanced looping, using string indices. Hopefully you won't get quite as loopy with strings as this person!:
+Let's do some really advanced looping, using string indices. Hopefully you won't get quite as loopy with strings as these people!:
 
 ![co-operative cats cradle](./assets/cats-cradle.jpg)
 
 
 ### Setup
 
-For this exercise, we don't need to run tests. We will only use the command `node main.js` in the terminal to see the results of our functions' `console.log` statements.
+For this exercise, we don't need to run tests. But we **DO** need to create our JavaScript file, and then we'll use our `node` command in our terminal to run it and see what gets printed out to said terminal.
 
 
 ### Tools You Could Think About Using
