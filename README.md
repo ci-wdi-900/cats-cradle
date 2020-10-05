@@ -101,7 +101,7 @@ Example output:
 
 ![the letters from "Hello." and "Oh hi." printed out to the terminal](./assets/challenge-3.png)
 
-4) Write a function that prints out only the vowels from a given string. Do not use regular expressions ("regex"). Now call it with "Regular expressions are for term 2.". You should see an "e" printed, followed by a "u", followed by an "a", and so on. **HINT**: you can check if each charater is a vowel by checking if it `===` 'a' and 'b' an so on. Or you could check out `.includes`, but if you stretch out into `.includes`, make sure you don't get it backwards. It's very easy to accidentally check if the string of vowels ('aeiou') is IN a single character, rather than the other way around!
+4) Write a function that prints out only the vowels from a given string. Do not use regular expressions ("regex"). Now call it with "Regular expressions are for term 2.". You should see an "e" printed, followed by a "u", followed by an "a", and so on. **HINT**: you can check if each charater is a vowel by checking if it `===` 'a' and 'e' and so on. Or you could check out `.includes`, but if you stretch out into `.includes`, make sure you don't get it backwards. It's very easy to accidentally check if the string of vowels ('aeiou') is IN a single character, rather than the other way around!
 
 Example output:
 
