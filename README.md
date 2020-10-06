@@ -125,7 +125,7 @@ Example output:
 
 ![the first five vowels from the first string printed out to the terminal, followed by the "e" and "o" from "Hello"](./assets/challenge-7.png)
 
-8) Write a function that prints out the only the first index of the letter `u` in the given string. Do not use `indexOf`. Now call it with 'You picked the wrong house, bub.'
+8) Write a function that prints out the only the first index of the letter `u` in the given string. Do not use `indexOf`. Now call it with 'You picked the wrong house, bub.' Then call it with 'This is unheard of!'
 
 Example output:
 
